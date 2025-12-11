@@ -65,23 +65,6 @@ The platform uses **Aadhaar + Face Verification**, step-by-step registration, an
 6. User lands on **dashboard** with verified avatar
 7. Can **edit profile**, view matches, or browse demo profiles
 
-📂 Project Structure (Simple View)
-
-LifeLyne-Matrimony/
-│
-├── lyne/                 # Main app
-│   ├── models.py         # User Profile Model
-│   ├── views.py          # Registration, Dashboard, Edit Profile
-│   ├── urls.py
-│   ├── templates/        # All HTML pages
-│   └── static/           # CSS, JS, Images
-│
-├── lifelyne/             # Project settings
-│   ├── settings.py
-│   └── urls.py
-│
-└── README.md
-```
 
  📅 Future Enhancements
 
